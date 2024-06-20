@@ -19,7 +19,7 @@ R
 Run BASIC using
 ```E000R```
 
-To exit basic run
+To exit BASIC run
 ```CALL -256```
 
 BASIC test program
